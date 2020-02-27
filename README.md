@@ -1,4 +1,6 @@
-Stepos for task 6
+Build login form
 
-1) Get rid of hardcoded messages from the chatroom (done)
-2) Add messages from the messages model
+1) change the form in the login page
+2) Use rails helpers for label and textname
+
+3) in application controller add helper methods, current_user, logged_in?, require_user
