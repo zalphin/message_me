@@ -1,6 +1,3 @@
-Build login form
+Look up Redis and set up Redis on Heroku to get chat working.
 
-1) change the form in the login page
-2) Use rails helpers for label and textname
-
-3) in application controller add helper methods, current_user, logged_in?, require_user
+Add, in config/environments/production.rb, a whitelist for heroku site

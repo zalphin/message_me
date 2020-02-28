@@ -13,6 +13,8 @@
 //= require rails-ujs
 //= require jquery
 //= require jquery_ujs
+//= require cable
+//= require_self
 //= require activestorage
 //= require turbolinks
 //= require semantic-ui
